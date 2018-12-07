@@ -1,6 +1,8 @@
+![Banner](images/banner.jpg)
+
 # VBA - Excel - Insert images
 
->Quickly scan a folder on the hard disk for images and insert them into a worksheet
+> Quickly scan a folder on the hard disk for images and insert them into a worksheet
 
 ## Table of Contents
 
@@ -18,7 +20,7 @@ Create a new worksheet and insert images one by one, one image by row.
 
 I've create this macro to import all images that can be used in Excel ribbons to be able to see them in one interface and allow to search on part of their names.
 
-*The VBA should probably be modified to fit your needs.*
+_The VBA should probably be modified to fit your needs._
 
 ### Excel 2013 Icons for use in ribbons
 
