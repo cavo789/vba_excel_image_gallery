@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # VBA - Excel - Insert images
+
+![Banner](./banner.svg)
 
 > Quickly scan a folder on the hard disk for images and insert them into a worksheet
 
